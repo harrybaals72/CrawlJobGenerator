@@ -1,0 +1,36 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  margin: auto;
+  max-width: 38rem;
+  padding: 2rem;
+}
+
+.linkInput {
+  width: 80%
+}
+
+.category {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+}
+
+.category:hover {
+  box-shadow: 0 8px 16px 4px rgba(0,0,0,0.2);
+}
+
+.colorA {
+  background-color: rgb(255, 219, 185);
+}
+
+.colorB {
+  background-color: rgb(208, 246, 218);
+}
+
+.debugButtons {
+  width: 100%;
+}
+
+button {
+  padding: 1%;
+  margin: 1%;
+}
